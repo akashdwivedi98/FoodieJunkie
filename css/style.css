@@ -134,15 +134,23 @@
 
 }
 
-
+#services .box p{
+  font-family: 'Bree Serif',serif;
+}
+/*Clients Section*/
+#client-section {
+  
+}
 /*Utility classes*/
 .h-primary {
+  font-family: 'Bree Serif',serif;
   font-size: 3.8rem;
   padding: 12px;
 }
 
 .h-secondary {
-  font-size: 2.8rem;
+  font-family: 'Bree Serif',serif;
+  font-size: 2.3rem;
   padding: 12px;
 }
 
